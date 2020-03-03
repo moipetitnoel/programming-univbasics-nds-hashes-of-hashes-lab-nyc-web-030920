@@ -40,7 +40,7 @@ def naming_system
             :sub_category=> { :label=> PORTION_3,
               :sub_category=> {
                 :label=> PORTION_4
-                }
+                
               }
             }
           }
